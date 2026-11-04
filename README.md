@@ -1,6 +1,6 @@
 # workload.zero MCP server
 
-Let Claude and other AI agents work in your [workload.zero](https://workloadzero.de/en/) account: tasks and goals, time tracking, contacts and deals, quotes and invoices. workload.zero is a business suite by Get IT Done GmbH, hosted in Germany.
+Let Claude and other AI agents work in your [workload.zero](https://workloadzero.de/en/) account: tasks and goals, time tracking, contacts and deals, quotes and invoices. workload.zero is a business suite by Get IT Done GmbH, hosted in the EU (servers in Germany, file storage in Sweden).
 
 - Endpoint: `https://mcp.workloadzero.de/mcp` (Streamable HTTP)
 - Sign-in: OAuth 2.1 with PKCE and dynamic client registration, using your workload.zero account
