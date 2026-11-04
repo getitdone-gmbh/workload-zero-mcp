@@ -3,7 +3,7 @@
   "name": "de.workloadzero/mcp",
   "title": "workload.zero",
   "description": "Back office, projects, hiring and CRM in one suite. Claude's work stays a draft until you approve.",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "websiteUrl": "https://workloadzero.de/en/",
   "remotes": [
     {
