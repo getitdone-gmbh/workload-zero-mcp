@@ -4,6 +4,7 @@ Let Claude and other AI agents work in your [workload.zero](https://workloadzero
 
 - Endpoint: `https://mcp.workloadzero.de/mcp` (Streamable HTTP)
 - Sign-in: OAuth 2.1 with PKCE and dynamic client registration, using your workload.zero account
+- Discovery: `initialize` and `tools/list` answer without sign-in, so you can see every tool first. Tool calls need sign-in.
 - Registry name: `de.workloadzero/mcp` in the [official MCP Registry](https://registry.modelcontextprotocol.io)
 
 ## What your agent can do
