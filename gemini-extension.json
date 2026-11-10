@@ -1,0 +1,10 @@
+{
+  "name": "workload-zero",
+  "version": "1.0.3",
+  "description": "Back office, projects, hiring and CRM in one suite. Claude's work stays a draft until you approve.",
+  "mcpServers": {
+    "workload-zero": {
+      "httpUrl": "https://mcp.workloadzero.de/mcp"
+    }
+  }
+}

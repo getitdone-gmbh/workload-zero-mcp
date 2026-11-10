@@ -46,6 +46,12 @@ Settings, Connectors, Add custom connector, URL `https://mcp.workloadzero.de/mcp
 }
 ```
 
+### Gemini CLI
+
+```sh
+gemini extensions install https://github.com/getitdone-gmbh/workload-zero-mcp
+```
+
 ## Try it
 
 > Show my goals for today and log two hours on the task I worked on this morning.
